@@ -109,3 +109,15 @@
 </div>
 
 ###
+
+<br clear="both">
+
+<h1 align="center">My Domains</h1>
+
+###
+
+<br clear="both">
+
+<h5 align="center">https://realnayan135.tech<br>http://nayan135.me<br>https://nayan135.000webhostapp.com</h5>
+
+###
