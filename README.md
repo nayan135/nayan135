@@ -2,18 +2,16 @@
 
 ###
 
-<h5 align="center">Its me Nayan Acharya. 😶<br>Welcome to my Github.🧑‍💻</h5>
+<h5 align="center">Welcome to the den.🧑‍💻</h5>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">My Proficiency 🧑‍💻</h1>
+<h1 align="center"> Some Graphs🌐🧑‍💻</h1>
 
 ###
-
 <br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayan135&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayan135&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -23,7 +21,7 @@
 
 <br clear="both">
 
-<h1 align="center">Skills</h1>
+<h1 align="center">THINGS I MIGHT KNOW</h1>
 
 ###
 
@@ -72,16 +70,15 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/finbe2fo8p90karwice9rz2pa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=finbe2fo8p90karwice9rz2pa&count=4&unique=true" alt="Spotify recently played"  />
-  </a>
+ /*CURRENTLY UNAVAILABLE
+  </a> */
 </div>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">Socialss🛜</h1>
+<h1 align="center">CONNET THROUGH🛜</h1>
 
 ###
 
@@ -104,15 +101,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nayan135.nayan135&left_color=seagreen&right_color=springgreen&left_text=%F0%9F%91%80%20Watchers%20"  />
-</div>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">My Domains</h1>
+<h1 align="center">DOMAINS THAT I OWN</h1>
 
 ###
 
