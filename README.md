@@ -1,8 +1,8 @@
-<h2 align="center">👋 Hello DEVs</h2>
+<div align="center">
+<h2>NAYAN ACHARYA</h2>
 
-<h5 align="center">🚀 Welcome to the Den. 🧑‍💻</h5>
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=00E8FF&center=true&vCenter=true&random=false&width=435&lines=Developer;Tech+Enthusiast;Innovator;Dreamer" alt="Typing SVG" />
+</div>
 
 <h1 align="center">📊 Some Graphs</h1>
 
@@ -16,7 +16,7 @@
 <h1 align="center">🛠️ Skills & Tools</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,gitlab,mongodb,github,git,html,linux,mysql,photoshop,php,vscode,arduino,blender,c,canva,cpp,css,figma" height="100" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=js,gitlab,mongodb,git,html,linux,mysql,photoshop,php,vscode,arduino,blender,c,canva,cpp,css,figma" height="100" alt="Skill Icons" />
 </div>
 
 ---
@@ -51,7 +51,6 @@
     <img src="https://skillicons.dev/icons?i=discord" width="50" alt="Discord" />
   </a>
 </div>
-
 ---
 
 <h1 align="center">🔗 Domains I Own</h1>
