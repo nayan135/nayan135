@@ -112,6 +112,6 @@
 
 <br clear="both">
 
-<h5 align="center">https://nayan135.com.np<br>https://realnayan135.tech<br>http://nayan135.me<br>https://nayan135.000webhostapp.com<br>https://domain.realnayan135.tech</h5>
+<h5 align="center">https://nayan135.com.np<br>https://nayanacharya.xyz<br>https://nayanacharya.info.np</h5>
 
 ###
