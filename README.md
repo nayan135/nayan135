@@ -7,7 +7,8 @@
 <h1 align="center">📊 Some Graphs</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayan135&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayan135&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true" height="300" alt="Languages Graph" />
+<img   src="https://github-readme-stats.hackclub.dev/api/wakatime?username=929&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"  alt="hackatime graph"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayan135&radius=16&theme=github-dark&area=true" height="300" alt="Activity Graph" />
 </div>
 
