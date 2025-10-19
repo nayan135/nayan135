@@ -11,7 +11,7 @@
 <img   src="https://github-readme-stats.hackclub.dev/api/wakatime?username=929&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"  alt="hackatime graph"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayan135&radius=16&theme=github-dark&area=true" height="300" alt="Activity Graph" />
 </div>
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 
 
 ---
 
